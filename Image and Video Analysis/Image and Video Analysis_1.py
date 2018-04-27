@@ -5,6 +5,7 @@ from matplotlib import pyplot as plt
 #img = cv2.imread('test.jpg',cv2.IMREAD_GRAYSCALE)
 img2 = cv2.imread('test2.jpg')
 55555555
+66666666
 
 
 #imgGrayscaleScene = cv2.imread('test.jpg')
