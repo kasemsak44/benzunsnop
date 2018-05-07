@@ -17,6 +17,6 @@ img2 = cv2.imread('test2.jpg')
 #cv2.imshow('image2',img2)
 
 
-
+asfasfsafsafasaf
 cv2.waitKey(0)
 cv2.destroyAllWindows()
