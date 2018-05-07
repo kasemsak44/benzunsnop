@@ -6,7 +6,7 @@ from matplotlib import pyplot as plt
 img2 = cv2.imread('test2.jpg')
 55555555
 66666666
-
+ewfwefwef
 
 #imgGrayscaleScene = cv2.imread('test.jpg')
 #height, width, numChannels = imgGrayscaleScene.shape
