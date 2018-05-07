@@ -7,7 +7,7 @@ img2 = cv2.imread('test2.jpg')
 55555555
 66666666
 ewfwefwef
-
+mint,micky
 #imgGrayscaleScene = cv2.imread('test.jpg')
 #height, width, numChannels = imgGrayscaleScene.shape
 
