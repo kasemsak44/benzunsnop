@@ -20,3 +20,4 @@ img2 = cv2.imread('test2.jpg')
 asfasfsafsafasaf
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+#kasemssak
